@@ -1,4 +1,4 @@
-# Swin MAE (224 × 224)
+# Swin MAE
 
 A cleaned PyTorch implementation of **Swin MAE: Masked Autoencoders for Small Datasets**, with command-line tools for training, tiled inference, and image-quality evaluation.
 
