@@ -64,7 +64,7 @@ Run `python train.py --help` for all options.
 
 ## Inference
 
-The model is trained on 224 × 224 inputs. `infer.py` reconstructs larger images with overlapping tiles and weighted blending.
+`infer.py` reconstructs larger images with overlapping tiles and weighted blending.
 
 ```bash
 python infer.py \
